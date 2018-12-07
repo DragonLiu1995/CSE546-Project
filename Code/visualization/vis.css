@@ -1,0 +1,19 @@
+body {
+  margin: auto, auto;
+}
+p {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 20px;
+  height: 20px;
+}
+
+.txt {
+  text-align: center;
+  margin-left: 5px;
+}
